@@ -1,0 +1,7 @@
+
+public class DSFileEmployee {
+    boolean create();
+    boolean update();
+    boolean delete();
+    boolean read();
+}
