@@ -1,0 +1,7 @@
+public class DAOManagementFactory(){
+
+    public DSFile getDataSource(){
+        
+    }
+
+}
