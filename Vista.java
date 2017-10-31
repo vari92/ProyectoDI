@@ -2,9 +2,7 @@ package Vista;
 
 public class Vista extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Vista
-     */
+    
     public Vista() {
         initComponents();
     }
