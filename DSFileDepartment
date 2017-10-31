@@ -1,0 +1,7 @@
+
+public class DSFileDeparment {
+    boolean create();
+    boolean update();
+    boolean delete();
+    boolean read();
+}
